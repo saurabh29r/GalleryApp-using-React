@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.images-size{
+    height: 450px;
+    margin: 10px;
+}
+
+.heading{
+    color: magenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tubmnail-image-container{
+    padding: 10px;
+}
+
+.tubmnail-image-container {
+    padding: 10px;
+}
+
+.image-setup{
+    padding: 10px;
+    opacity: .5;
+}
+
+.image-setup:hover{
+    opacity: 1;
+}
